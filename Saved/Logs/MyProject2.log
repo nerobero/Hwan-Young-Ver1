@@ -963,3 +963,145 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.21-06.38.20:171][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.05.21-06.38.20:174][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2022.05.21-06.38.20:199][526]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.21-06.42.24:416][378]LogContentBrowser: Deferred new asset file creation: Ability_Projectile_Child
+[2022.05.21-06.42.24:436][378]LogContentBrowser: Creating deferred item: Ability_Projectile_Child
+[2022.05.21-06.42.32:223][846]LogContentBrowser: Attempting asset rename: Ability_Projectile_Child -> Ability_TwinCrane
+[2022.05.21-06.42.32:225][846]LogContentBrowser: End creating deferred item Ability_Projectile_Child
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.SKEL_Ability_TwinCrane_C:UserConstructionScript' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.SKEL_Ability_TwinCrane_C' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane_C' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:EventGraph.K2Node_Event_1' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:EventGraph.K2Node_Event_2' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:759][320]LogMetaData: Removing '/Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/AbilitySystem/Ability_TwinCrane.PackageMetaData'
+[2022.05.21-06.42.41:786][320]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Ability_TwinCraneCACE82F64EFD9E0C4D5EC6A512F1C5E6.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/Projectiles/Ability_TwinCrane.uasset'
+[2022.05.21-06.42.41:844][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.21-06.42.41:870][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.21-06.42.41:884][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.21-06.42.41:915][320]AssetCheck: New page: Asset Save: Ability_TwinCrane
+[2022.05.21-06.42.41:915][320]LogContentValidation: Display: Validating Blueprint /Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane
+[2022.05.21-06.42.57:318][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane
+[2022.05.21-06.43.31:423][ 87]LogSlate: Took 0.000944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.21-06.46.48:781][139]BlueprintLog: New page: Compile Ability_TwinCrane
+[2022.05.21-06.46.48:815][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.21-06.46.51:015][244]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Ability_TwinCrane3C9B9A704052B72760AEE68203FBF580.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/Projectiles/Ability_TwinCrane.uasset'
+[2022.05.21-06.46.51:024][244]AssetCheck: New page: Asset Save: Ability_TwinCrane
+[2022.05.21-06.46.51:024][244]LogContentValidation: Display: Validating Blueprint /Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane
+[2022.05.21-06.47.13:824][994]BlueprintLog: New page: Compile Ability_TwinCrane
+[2022.05.21-06.47.13:856][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.21-06.47.14:417][ 26]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Ability_TwinCraneDADA02DE46083DA1F10564820CFA9804.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/Projectiles/Ability_TwinCrane.uasset'
+[2022.05.21-06.47.14:425][ 26]AssetCheck: New page: Asset Save: Ability_TwinCrane
+[2022.05.21-06.47.14:425][ 26]LogContentValidation: Display: Validating Blueprint /Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane
+[2022.05.21-06.47.28:230][299]BlueprintLog: New page: Compile Ability_TwinCrane
+[2022.05.21-06.47.28:263][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.21-06.47.51:284][117]BlueprintLog: New page: Compile Ability_TwinCrane
+[2022.05.21-06.47.51:317][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.21-06.47.56:944][317]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Ability_TwinCrane2A645F18483A689DB2A4AE8F6FA3DAB8.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/Projectiles/Ability_TwinCrane.uasset'
+[2022.05.21-06.47.56:952][317]AssetCheck: New page: Asset Save: Ability_TwinCrane
+[2022.05.21-06.47.56:952][317]LogContentValidation: Display: Validating Blueprint /Game/AbilitySystem/Projectiles/Ability_TwinCrane.Ability_TwinCrane
+[2022.05.21-06.47.58:096][386]LogSlate: Window 'Ability_TwinCrane' being destroyed
+[2022.05.21-06.47.58:100][386]LogSlate: Window 'Ability_TwinCrane' being destroyed
+[2022.05.21-06.47.58:103][386]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.47.58:103][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.48.12:074][ 31]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AbilitySystem/UI/ActionBarUI/Actionbar_UI.Actionbar_UI
+[2022.05.21-06.48.14:075][114]LogSlate: Window 'Actionbar_UI' being destroyed
+[2022.05.21-06.48.14:078][114]LogSlate: Window 'Actionbar_UI' being destroyed
+[2022.05.21-06.48.14:081][114]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.48.14:081][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.48.14:087][114]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.48.14:088][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.48.16:313][246]LogContentBrowser: Attempting asset rename: Actionbar_Slot -> Actionbar_Slot
+[2022.05.21-06.48.16:453][254]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.Actionbar_Slot
+[2022.05.21-06.49.33:956][130]BlueprintLog: New page: Compile Actionbar_Slot
+[2022.05.21-06.49.34:041][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.05.21-06.50.17:956][343]BlueprintLog: New page: Compile Actionbar_Slot
+[2022.05.21-06.50.18:004][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.05.21-06.54.12:448][399]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Actionbar_Slot527EEDA54411085969E39A92822E73DE.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.uasset'
+[2022.05.21-06.54.12:461][399]AssetCheck: New page: Asset Save: Actionbar_Slot
+[2022.05.21-06.54.12:461][399]LogContentValidation: Display: Validating WidgetBlueprint /Game/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.Actionbar_Slot
+[2022.05.21-06.54.37:464][572]BlueprintLog: New page: Compile Actionbar_Slot
+[2022.05.21-06.54.37:499][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.05.21-06.54.38:184][611]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Actionbar_Slot502969DE4CE4363713A9FB9C14D459C8.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.uasset'
+[2022.05.21-06.54.38:195][611]AssetCheck: New page: Asset Save: Actionbar_Slot
+[2022.05.21-06.54.38:195][611]LogContentValidation: Display: Validating WidgetBlueprint /Game/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.Actionbar_Slot
+[2022.05.21-06.55.43:061][807]BlueprintLog: New page: Compile Actionbar_Slot
+[2022.05.21-06.55.43:095][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.21-06.55.44:137][864]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Actionbar_SlotF9EA6131493EAF732CE9D4A208278196.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.uasset'
+[2022.05.21-06.55.44:144][864]AssetCheck: New page: Asset Save: Actionbar_Slot
+[2022.05.21-06.55.44:144][864]LogContentValidation: Display: Validating WidgetBlueprint /Game/AbilitySystem/UI/ActionBarUI/Actionbar_Slot.Actionbar_Slot
+[2022.05.21-06.55.50:350][101]LogSlate: Window 'Actionbar_Slot' being destroyed
+[2022.05.21-06.55.50:354][101]LogSlate: Window 'Actionbar_Slot' being destroyed
+[2022.05.21-06.55.50:356][101]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.55.50:356][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.55.50:361][101]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.55.50:361][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.55.53:086][262]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AbilitySystem/UI/ActionBarUI/Actionbar_UI.Actionbar_UI
+[2022.05.21-06.56.00:340][621]LogSlate: Window 'Actionbar_UI' being destroyed
+[2022.05.21-06.56.00:343][621]LogSlate: Window 'Actionbar_UI' being destroyed
+[2022.05.21-06.56.00:346][621]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.56.00:346][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.56.00:351][621]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.56.00:351][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.56.06:133][869]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.21-06.56.06:139][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.21-06.56.06:139][869]PIE: New page: PIE session: ThirdPersonExampleMap (May 20, 2022, 10:56:06 PM)
+[2022.05.21-06.56.06:139][869]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.21-06.56.06:147][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008519s)
+[2022.05.21-06.56.06:148][869]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.21-06.56.06:148][869]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2022.05.21-06.56.06:148][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009712s)
+[2022.05.21-06.56.06:171][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.21-06.56.06:172][869]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.21-06.56.06:172][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.21-06.56.06:172][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.21-06.56.06:173][869]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.21-06.56.06:173][869]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.21-06.56.06:176][869]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.21-06.56.06:176][869]LogAudioMixer: Display: 1: FrontRight
+[2022.05.21-06.56.06:188][869]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.05.21-06.56.06:188][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.21-06.56.06:188][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.21-06.56.06:188][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.21-06.56.06:189][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.21-06.56.06:189][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.21-06.56.06:189][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.21-06.56.06:201][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.21-06.56.06:201][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.21-06.56.06:201][869]LogInit: FAudioDevice initialized.
+[2022.05.21-06.56.06:201][869]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.05.21-06.56.06:207][869]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.21-06.56.06:209][869]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.05.21-02.56.06
+[2022.05.21-06.56.06:209][869]LogWorld: Bringing up level for play took: 0.001454
+[2022.05.21-06.56.06:209][869]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.21-06.56.06:212][869]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.05.21-06.56.06:212][869]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.05.21-06.56.06:212][869]PIE: Server logged in
+[2022.05.21-06.56.06:213][869]PIE: Play in editor total start time 0.075 seconds.
+[2022.05.21-06.56.19:010][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.05.21-06.56.19:026][634]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMapF0057D3F4BDDF4A9C50BE6B80C2E44C0.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.21-06.56.19:113][634]LogSavePackage: Moving '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap_BuiltData4C6FD8CD4C4E8840FF44F58E3F6411BB.tmp' to '../../../../../../Users/user/OneDrive/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.21-06.56.19:119][634]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.21-06.56.19:119][634]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.21-06.56.19:119][634]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.21-06.56.20:593][723]Cmd: SELECT NONE
+[2022.05.21-06.56.23:059][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-06.56.23:059][868]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.21-06.56.23:059][868]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-06.56.23:059][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.56.23:065][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.21-06.56.23:080][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-06.56.23:094][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.21-06.56.23:094][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-06.56.23:095][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-06.56.23:110][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-06.56.23:113][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.21-06.56.23:136][869]LogPlayLevel: Display: Destroying online subsystem :Context_15
